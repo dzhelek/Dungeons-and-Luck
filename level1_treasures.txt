@@ -1,0 +1,4 @@
+HealthPotion, The potion of Undying, 50
+ManaPotion, The potion of Unexhausting, 50
+Spell, Fireball, 30, 40, 1
+Weapon, Exploding granades, 40

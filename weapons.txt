@@ -1,0 +1,5 @@
+Axe, 20
+Knife, 5
+Exploding granades, 40
+None
+None

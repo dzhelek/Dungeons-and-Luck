@@ -1,0 +1,5 @@
+Foreigner's God, 30, 30, 2
+Fireball, 30, 40, 1
+Freezing cold, 10, 20, 1
+None
+None
