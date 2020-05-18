@@ -4,7 +4,7 @@
 
 ## Как да си сваля и използвам проекта?
 
-1) install git
+1) [install git](https://www.linode.com/docs/development/version-control/how-to-install-git-on-linux-mac-and-windows/)
 2) install python 3.6.9
 3) `git clone https://github.com/dzhelek/Dungeons-and-Luck.git`
 4) `cd Dungeons-and-Luck`
